@@ -1,6 +1,7 @@
+# EGC25 Proposal
 ## 🔧 Implementation Overview
 
-This project implements a simulated **Quantum Key Distribution (QKD)** protocol using the [Qiskit](https://qiskit.org/) framework. The implementation follows a modular structure, mirroring the protocol’s theoretical phases.
+This project implements a simulated **Quantum Key Distribution (QKD)** proposal using the [Qiskit](https://qiskit.org/) framework. The implementation follows a modular structure, mirroring the protocol’s theoretical phases.
 
 ### 📦 Dependencies
 
